@@ -149,6 +149,18 @@ that explicit).
     - auto-compile, borg, epkg, no-littering: https://github.com/emacscollective
     - emacsmirror: https://emacsmirror.net
     - magit: https://magit.vc
+- Kashish
+  - website: https://tilde.team/~contrapunctus
+  - tildegit: https://tildegit.org/contrapunctus/
+  - codeberg: https://codeberg.org/contrapunctus/
+  - donate
+    - liberapay: https://liberapay.com/contrapunctus
+    - razorppay: https://rzp.io/l/contrapunctus
+  - projects
+    - chronometrist, chronometrist-key-values, chronometrist-spark: https://tildegit.org/contrapunctus/chronometrist
+    - chronometrist-goal: https://tildegit.org/contrapunctus/chronometrist-goal
+    - sxiv.el: https://notabug.org/contrapunctus/sxiv.el
+    - async-backup: https://tildegit.org/contrapunctus/async-backup
 - Leo Vivier
   - github: https://github.com/zaeph
   - twitter: https://twitter.com/zaeph
